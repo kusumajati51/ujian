@@ -1,0 +1,5 @@
+5. obbject oriented programin (oop) metode pemrograman yang berbasis objek dimana objek objek tersbut bisa berisikan data maupun  function dari sebuah program 
+6. orm adalah sebuah teknik pemodelan yang object data berdasarkan skema pada table di database
+7. design perangkat lunak adala cara kita untuk memetakan function atau object pada project kita agar mudah untuk dikerjakan secar team contoh deign perangkat lunka yang u mum adalah mvc
+8. pengujian perangkat lunak adalah proses observasi kelayakan sebuah system dan pencarian error atau bug pada system yang sedang dirancang
+9. Rest Adalah teknik kominkasi anatar aplikasi yang berbasis web dan memiiki 4 Method yaitu GET, POST, PATCH, DELETE jika kita memakai keempat sekaligus method maka itu disebut restfull 
